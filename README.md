@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=philitingar&style=flat-square&color=blue" alt=""/>
 </div>
-Hi, I’m @philitingar and I’m interested in IOS & SwiftUI. I am currently learning SwiftUI and I’m looking for a job as a Junior iOS dev.
+Hi, I’m @TimeaB and I’m interested in IOS & SwiftUI. I am currently learning SwiftUI and I’m looking for a job as a Junior iOS dev.
 
 ---
 ### Languages and Tools :
