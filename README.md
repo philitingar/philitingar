@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 </div>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=philitingar&style=flat-square&color=blue" alt=""/>
-</div>
+
 Hi, I’m @TimeaB and I’m interested in IOS & SwiftUI. I am currently learning SwiftUI and I’m looking for a job as a Junior iOS dev.
 
 ---
