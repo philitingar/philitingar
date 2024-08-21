@@ -8,9 +8,7 @@ Hi, I’m @TimeaB and I’m interested in IOS & SwiftUI. I am currently learning
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="SwiftUI" alt="Swift" width="40" height="40"/>
-</div>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="SwiftUI" alt="DBeaver" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>
 </div>
 
 
