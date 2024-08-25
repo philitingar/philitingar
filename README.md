@@ -13,12 +13,8 @@ Hi, I’m @TimeaB and I’m interested in IOS & SwiftUI. I am currently learning
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="40" height="40"/>
+  <img src=" https://github.com/devicons/devicon/blob/master/icons/realm/realm-original-wordmark.svg" title="Realm" alt="Realm" width="40" height="40"/>
 </div>
-
-
-### My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=philitingar&theme=tokyonight-duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
 
