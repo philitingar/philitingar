@@ -3,6 +3,7 @@
 </div>
 
 Hi, I’m @TimeaB and I’m interested in IOS & SwiftUI. I am currently learning SwiftUI and I’m looking for a job as a Junior iOS dev.
+I have already two apps on the store, Fizzye and Flavourly check them out!
 
 ---
 ### Languages and Tools :
