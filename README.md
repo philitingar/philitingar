@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenQzMTduY3VnOG1weGZ1a3VsZ295a2dlNWJkMXppc21yYzZmbjg0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 </div>
 
 Hi, I’m @TimeaB and I’m interested in IOS & SwiftUI. I am currently learning SwiftUI and I’m looking for a job as a Junior iOS dev.
